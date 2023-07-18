@@ -14,7 +14,7 @@ This repository contains Python code snippets that cover various fundamental con
    - Uses if-else statements and for loops to perform tasks like checking values and printing numbers.
 
 ### 4. Functions:
-   - Defines and calls functions to perform specific tasks.
+   - Define and calls functions to perform specific tasks.
    - Introduces function parameters and docstrings.
 
 ### 5. Dictionaries:
