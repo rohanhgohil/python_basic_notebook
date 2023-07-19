@@ -1,4 +1,4 @@
-# Python Fundamentals - Basics of Python Programming Language for Data Science
+# Python Fundamentals
 This repository contains Python code snippets that cover various fundamental concepts for data science.
 
 ### 1. Variables and Data Types:
